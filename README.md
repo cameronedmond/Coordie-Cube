@@ -12,7 +12,7 @@ The blender file is within the Unity project.
 ## Unity project
 A very basic Unity project that contains the cube and a grid plane. A script is applied to the coordinate cube to stop the point sphere and axis arrows from warping when things are resized (works in play mode only).
 
-~[An image of the coordinate cube in Unity](images/CubeUnity.png)
+![An image of the coordinate cube in Unity](images/CubeUnity.png)
 
 ## What do I do with this?
 Whatever you want! I made this for fun and also because I thought it might be helpful when teaching my students about coordinates frames, vectors and points. Use it in your teaching, your projects, and more! Please let me know if it helped you.
